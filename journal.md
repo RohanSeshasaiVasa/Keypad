@@ -19,4 +19,22 @@ Here is the PCB.
 
 <img width="575" height="513" alt="image" src="https://github.com/user-attachments/assets/715f0de4-c5d6-410e-8e78-d02ff95d6be0" />
 
-**Day 1 (3rd session) - Designing the CAD or casing** _Hours spent: 4 hours_
+**Day 1 (3rd session) - Designing the CAD or casing** _Hours spent: 2 hours_
+For this keypad I thought of making casing for it. It was my first time making a CAD, so I used Tinker CAD to do it.
+I took a square block and then started to shape it. I tried covering the PCB.
+
+It looked like this:
+
+<img width="528" height="389" alt="image" src="https://github.com/user-attachments/assets/65408b9d-6783-43d3-80a9-bfa54d8b0091" />
+
+I know that it looks unprofessionalistic and made from Tinker CAD.
+Then I realised how am I even gonna place a PCB inside it breh. So I tried separating the lid, which eventually works.
+Front side:
+
+<img width="607" height="374" alt="image" src="https://github.com/user-attachments/assets/db1dcf54-0570-4ec8-ad39-88207c03074b" />
+
+Back side:
+
+<img width="825" height="460" alt="image" src="https://github.com/user-attachments/assets/8d8ee5e6-9409-4c17-b020-e1aecd771f30" />
+
+Woah why does the lid looks like a minecraft's creeper face lol.
