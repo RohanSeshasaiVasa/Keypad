@@ -6,10 +6,15 @@ The game name is "Find a path". In this game for the first 5 seconds there will 
 So, in this game I used 4 x 4 LED and button matrix, I thought Button matrix has like 16 switches, and even more if I go there will be more like 64 keys. So instead of having that many keys, I will have 5 keys.
 
 Switch 1 --> Up
+
 Switch 2 --> Down
+
 Switch 3 --> Left
+
 Switch 4 --> Right
+
 Switch 5 --> Ok / Start.
+
 
 First we need to click Start button, then any one green dot glows, then you need to make a path between those 2 green dots using the switches.
 
