@@ -18,6 +18,42 @@ Switch 5 --> Ok / Start.
 
 First we need to click Start button, then any one green dot glows, then you need to make a path between those 2 green dots using the switches.
 
-THese type of PCB's can be done on perforated boards for testing, so I took 5 normal switches and soldered it to the perf boards and it looks like this:
+These type of PCB's can be done on perforated boards for testing, so I took 5 normal switches and soldered it to the perf boards and it looks like this:
 
-Then I connected it to Arduino, changed the code to a KeyPad code and then tested, first I got some errors, like mapping but resolved them.
+<img width="407" height="545" alt="image" src="https://github.com/user-attachments/assets/f574a65f-6b59-4778-b624-fe3984a01534" />
+
+Backside:
+
+<img width="731" height="558" alt="image" src="https://github.com/user-attachments/assets/01ce1a3f-5962-4d6a-90b3-ea377ab6a9fa" />
+
+Then I connected it to Arduino, changed the code to a KeyPad code and then tested, first I got some errors like mapping but resolved them.
+
+Here is how the PCB actually looks:
+
+Schematic
+
+<img width="489" height="517" alt="image" src="https://github.com/user-attachments/assets/5ceda15e-41ac-4c6d-80d3-f74c5ecc81d0" />
+
+PCB
+
+<img width="599" height="536" alt="image" src="https://github.com/user-attachments/assets/0cf3959f-c2ba-4315-942d-0da3824dbbcf" />
+
+3D model of PCB
+
+Front:
+
+<img width="484" height="440" alt="image" src="https://github.com/user-attachments/assets/8e2172ad-72a3-4b0c-a47f-9122b10f0b1f" />
+
+Back:
+
+<img width="588" height="532" alt="image" src="https://github.com/user-attachments/assets/ac23d433-7b74-4d5d-a882-9183521eedfd" />
+
+
+**BoM:**
+
+| Item No. | Part Name        | Description              | Quantity | Unit | Total Cost(INR) | Links                                                                                                                                   |
+|----------|------------------|--------------------------|----------|------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| 1        | Cherry MX switch   | For pressing(clicky clicky)     | 1 (according to pcs in the link)        | pcs  | 1945             | https://www.amazon.in/gp/product/B07NCZJX3M/ref=ox_sc_act_title_1?smid=AJ6SIZC8YQDZX&psc=1                          |
+| 2        | Cherry MX switch Keycaps  | For casing of Switches     | 1 (according to pcs in the link)        | pcs  | 601             | https://www.amazon.in/gp/product/B07NCZJX3M/ref=ox_sc_act_title_1?smid=AJ6SIZC8YQDZX&psc=1                          | 
+| 3        | Header Pins (2.54mm)| For attaching on the PCB         | 1        | pcs  | 135              | https://www.amazon.in/Plated-2-54mm-Header-Single-Straight/dp/B09HGTM3PS/ref=sr_1_5?sr=8-5    |
+| 4        | PCB printing service | To order the PCB         | 5        | pcs  | 2510              | jlcpcb.com    |
