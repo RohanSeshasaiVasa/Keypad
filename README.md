@@ -54,6 +54,6 @@ Back:
 | Item No. | Part Name        | Description              | Quantity | Unit | Total Cost(INR) | Links                                                                                                                                   |
 |----------|------------------|--------------------------|----------|------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | 1        | Cherry MX switch   | For pressing(clicky clicky)     | 1 (according to pcs in the link)        | pcs  | 482             | https://stackskb.com/store/cherry-mx-clear-switch-5-pin-pack-of-10/                          |
-| 2        | Cherry MX switch Keycaps  | For casing of Switches     | 1 (according to pcs in the link)        | pcs  | 601             | https://www.amazon.in/gp/product/B07NCZJX3M/ref=ox_sc_act_title_1?smid=AJ6SIZC8YQDZX&psc=1                          | 
+| 2        | Cherry MX switch Keycaps  | For casing of Switches     | 1 (according to pcs in the link)        | pcs  | 601             | https://www.amazon.in/gp/product/B0D9BRQNWK/ref=ewc_pr_img_2?smid=A4M88SXTNCUDD&psc=1                          | 
 | 3        | Header Pins (2.54mm)| For attaching on the PCB         | 1        | pcs  | 135              | https://www.amazon.in/Plated-2-54mm-Header-Single-Straight/dp/B09HGTM3PS/ref=sr_1_5?sr=8-5    |
 | 4        | PCB printing service | To order the PCB         | 5        | pcs  | 2510              | jlcpcb.com    |
